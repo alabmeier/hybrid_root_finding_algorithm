@@ -34,7 +34,7 @@ Int.b = 2;
 params.root_tol = 1e-8;
 params.func_tol = 1e-8;
 
-[root, info] = modifiedzeroin(f, Int, params);
+[root, info] = modifiedzeroin3040422362(f, Int, params);
 ```
 
 ## Results
