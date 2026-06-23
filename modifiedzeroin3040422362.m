@@ -1,4 +1,4 @@
-function [root, info] = modifiedzeroin3040422362(func, Int, params)
+function [root, info] = hybrid_root_finder(func, Int, params)
 % Hybrid Root-Finding Algorithm
 %
 % Author: Ava Labmeier
