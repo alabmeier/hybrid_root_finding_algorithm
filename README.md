@@ -46,5 +46,4 @@ The algorithm successfully locates roots while maintaining numerical stability t
 - Numerical Analysis
 - Algorithm Design
 - MATLAB Programming
-- Scientific Computing
-- Computational Mathematics
+- Applied Mathematics
