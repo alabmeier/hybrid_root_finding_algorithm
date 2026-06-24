@@ -6,6 +6,8 @@ This project implements a hybrid root-finding algorithm in MATLAB that combines 
 
 The algorithm is based on the idea behind Brent's Method, using fast interpolation steps when possible and falling back to bisection when convergence becomes unreliable.
 
+The project was completed as part of Numerical Analysis coursework at UC Berkeley.
+
 ## Features
 
 - Inverse Quadratic Interpolation (IQI)
